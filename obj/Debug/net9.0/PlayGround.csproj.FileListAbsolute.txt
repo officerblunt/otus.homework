@@ -12,3 +12,4 @@ C:\Users\alex\projects\PlayGround\PlayGround\obj\Debug\net9.0\refint\PlayGround.
 C:\Users\alex\projects\PlayGround\PlayGround\obj\Debug\net9.0\PlayGround.pdb
 C:\Users\alex\projects\PlayGround\PlayGround\obj\Debug\net9.0\PlayGround.genruntimeconfig.cache
 C:\Users\alex\projects\PlayGround\PlayGround\obj\Debug\net9.0\ref\PlayGround.dll
+C:\Users\alex\projects\PlayGround\PlayGround\obj\Debug\net9.0\PlayGround.sourcelink.json

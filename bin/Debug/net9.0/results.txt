@@ -10,3 +10,111 @@ Array length: 10000000
 (14,0662)	 [1] | Synchronously
 (6,3101)	 [1] | Thread
 (3,9575)	 [1] | PLINQ
+Array length: 100000
+(4,0084)	 [1] | Synchronously
+(11,6776)	 [1] | Thread
+(11,8112)	 [1] | PLINQ
+Array length: 1000000
+(1,3303)	 [1] | Synchronously
+(1,2396)	 [1] | Thread
+(0,5411)	 [1] | PLINQ
+Array length: 10000000
+(14,2937)	 [1] | Synchronously
+(5,1169)	 [1] | Thread
+(3,1477)	 [1] | PLINQ
+Array length: 100000
+(2,8203)	 [1] | Synchronously
+(3,6421)	 [1] | Thread
+(9,2206)	 [1] | PLINQ
+Array length: 1000000
+(1,6135)	 [1] | Synchronously
+(1,2858)	 [1] | Thread
+(0,5561)	 [1] | PLINQ
+Array length: 10000000
+(14,1416)	 [1] | Synchronously
+(7,0101)	 [1] | Thread
+(2,8594)	 [1] | PLINQ
+Array length: 100000
+(2,6455)	 [1] | Synchronously
+(3,9755)	 [1] | Thread
+(8,8262)	 [1] | PLINQ
+Array length: 1000000
+(1,3181)	 [1] | Synchronously
+(1,1344)	 [1] | Thread
+(0,4739)	 [1] | PLINQ
+Array length: 10000000
+(13,8429)	 [1] | Synchronously
+(6,9973)	 [1] | Thread
+(3,4553)	 [1] | PLINQ
+Array length: 100000
+(3,4304)	 [1] | Synchronously
+(69,0731)	 [1] | Thread
+(112,7521)	 [1] | PLINQ
+Array length: 1000000
+(1,3142)	 [1] | Synchronously
+(53,8548)	 [1] | Thread
+(45,9299)	 [1] | PLINQ
+Array length: 10000000
+(13,3823)	 [1] | Synchronously
+(39,1751)	 [1] | Thread
+(123,523)	 [1] | PLINQ
+Array length: 100000
+(3,1013)	 [1] | Synchronously
+(66,4639)	 [1] | Thread
+(84,3125)	 [1] | PLINQ
+Array length: 1000000
+(1,3109)	 [1] | Synchronously
+(34,8863)	 [1] | Thread
+(5,5385)	 [1] | PLINQ
+Array length: 10000000
+(13,8632)	 [1] | Synchronously
+(36,7037)	 [1] | Thread
+(123,4168)	 [1] | PLINQ
+Array length: 100000
+(2,8272)	 [1] | Synchronously
+(68,4204)	 [1] | Thread
+(80,4907)	 [1] | PLINQ
+Array length: 1000000
+(1,3131)	 [1] | Synchronously
+(32,0606)	 [1] | Thread
+(45,9628)	 [1] | PLINQ
+Array length: 10000000
+(13,5468)	 [1] | Synchronously
+(38,0229)	 [1] | Thread
+(207,1084)	 [1] | PLINQ
+Array length: 100000
+(2,733)	 [1] | Synchronously
+(62,8114)	 [1] | Thread
+(98,4862)	 [1] | PLINQ
+Array length: 1000000
+(1,3105)	 [1] | Synchronously
+(34,5086)	 [1] | Thread
+(45,8398)	 [1] | PLINQ
+Array length: 10000000
+(17,8775)	 [1] | Synchronously
+(67,5178)	 [1] | Thread
+(253,013)	 [1] | PLINQ
+Array length: 100000
+(2,8046)	 [1] | Synchronously
+(59,8432)	 [1] | Thread
+(77,4307)	 [1] | PLINQ
+Array length: 1000000
+(1,333)	 [1] | Synchronously
+(31,3701)	 [1] | Thread
+(45,4842)	 [1] | PLINQ
+Array length: 10000000
+(13,2788)	 [1] | Synchronously
+(37,5755)	 [1] | Thread
+(60,6127)	 [1] | PLINQ
+Array length: 100000
+(2,8054)	 [1] | Synchronously
+(60,62)	 [1] | Thread
+(75,624)	 [1] | PLINQ
+Array length: 1000000
+(1,3318)	 [1] | Synchronously
+(32,4026)	 [1] | Thread
+(44,9862)	 [1] | PLINQ
+Array length: 10000000
+(13,486)	 [1] | Synchronously
+(38,0914)	 [1] | Thread
+(132,3556)	 [1] | PLINQ

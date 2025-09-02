@@ -1,10 +1,10 @@
 ﻿namespace PlayGround.Otus.AsyncTasks;
 
-public static class Homework
+public static class TasksProgram
 {
-    private const string FOLDER_PATH = @"C:\Users\alex\projects\PlayGround\PlayGround";
+    private const string FOLDER_PATH = @"C:\Users\alex\projects\PlayGround\PlayGround\Otus\AsyncTasks";
 
-    public static async Task Main(string[] args)
+    public static async Task Start()
     {
         var files = new[]
         {

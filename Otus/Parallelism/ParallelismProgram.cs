@@ -1,10 +1,10 @@
-﻿
-namespace PlayGround.Otus.AsyncTasks;
+﻿namespace PlayGround.Otus.Parallelism;
 
-public static class Parallelism
+public static class ParallelismProgram
 {
     private const string RESULT_FILE_NAME = "results.txt";
-    public static void Main()
+
+    public static void Start()
     {
         int[] sizes = [100000, 1000000, 10000000];
         var random = new Random();
