@@ -1,0 +1,12 @@
+Array length: 100000
+(2,8413)	 [1] | Synchronously
+(4,1643)	 [1] | Thread
+(9,502)	 [1] | PLINQ
+Array length: 1000000
+(1,5141)	 [1] | Synchronously
+(1,1451)	 [1] | Thread
+(0,545)	 [1] | PLINQ
+Array length: 10000000
+(14,0662)	 [1] | Synchronously
+(6,3101)	 [1] | Thread
+(3,9575)	 [1] | PLINQ
