@@ -4,7 +4,7 @@ using PlayGround.Otus.Prototype;
 
 public static class Program
 {
-    public static void Main(string[] args)
+    public static void Main()
     {
         // ДЗ по теме "Внутрипроцессное взаимодействие"
         ParallelismProgram.Start();

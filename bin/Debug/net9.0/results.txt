@@ -118,3 +118,15 @@ Array length: 10000000
 (13,486)	 [1] | Synchronously
 (38,0914)	 [1] | Thread
 (132,3556)	 [1] | PLINQ
+Array length: 100000
+(3,928)	 [1] | Synchronously
+(4,0674)	 [1] | Thread
+(9,681)	 [1] | PLINQ
+Array length: 1000000
+(1,3721)	 [1] | Synchronously
+(1,2547)	 [1] | Thread
+(0,543)	 [1] | PLINQ
+Array length: 10000000
+(14,9372)	 [1] | Synchronously
+(5,8952)	 [1] | Thread
+(2,6679)	 [1] | PLINQ
