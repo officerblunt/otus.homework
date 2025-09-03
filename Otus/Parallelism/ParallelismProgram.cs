@@ -1,4 +1,6 @@
-﻿namespace PlayGround.Otus.Parallelism;
+﻿using System.Diagnostics;
+
+namespace PlayGround.Otus.Parallelism;
 
 public static class ParallelismProgram
 {
@@ -35,9 +37,11 @@ public static class ParallelismProgram
 
     private static void Measure(string message, Func<int> action)
     {
-        var now = DateTime.Now;
+        var stopwatch = new Stopwatch();
+        stopwatch.Start();
         action();
-        var result = $"({(DateTime.Now - now).TotalMilliseconds})\t [{Environment.CurrentManagedThreadId}] | {message}";
+        stopwatch.Stop();
+        var result = $"({stopwatch.ElapsedMilliseconds} ms)\t [{Environment.CurrentManagedThreadId}] | {message}";
         Console.WriteLine(result);
         File.AppendAllText(RESULT_FILE_NAME, $"{result}\n");
     }
