@@ -4,7 +4,7 @@ public static class TasksProgram
 {
     private const string FOLDER_PATH = @"C:\Users\alex\projects\PlayGround\PlayGround\Otus\AsyncTasks";
 
-    public static async Task Start()
+    public static async Task StartAsync()
     {
         var files = new[]
         {
